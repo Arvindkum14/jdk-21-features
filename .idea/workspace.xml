@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c47226c-dcc0-49fd-8044-7b6ca776a13b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/MultipleFeatures$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/MultipleFeatures.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/recordpatternswitch/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/recordpatternswitch/EventProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/recordpatternswitch/MainEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/recordpatternswitch/OrderShipped.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/recordpatternswitch/PaymentMade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/recordpatternswitch/UnknownEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/recordpatternswitch/UserRegistered.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/sequencedcollections/BrowserHistory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/sequencedcollections/MainTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/sequencedcollections/RecentActivityTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/sequencedcollections/RecentFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/sequencedcollections/TaskManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/virtualthreads/StructuredConcurrencyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/virtualthreads/VirtualThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/virtualthreads/VirtualThreadMassiveDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/virtualthreads/VirtualThreadWebScraper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/malik/virtualthreads/VirtualThreadWebScraperStructured.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "arvindmalik14"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Arvindkum14/jdk-21-features.git",
+    "accountId": "1cea7a28-994a-407c-a181-2c0462979756"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="32uNiKq0pJPfarjHCklz2zM7lIn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BrowserHistory.executor": "Run",
+    "Application.MainEvent.executor": "Run",
+    "Application.MainTracker.executor": "Run",
+    "Application.MultipleFeatures.executor": "Run",
+    "Application.RecentFiles.executor": "Run",
+    "Application.StructuredConcurrencyDemo.executor": "Run",
+    "Application.TaskManager.executor": "Run",
+    "Application.VirtualThreadDemo.executor": "Run",
+    "Application.VirtualThreadMassiveDemo.executor": "Run",
+    "Application.VirtualThreadWebScraper.executor": "Run",
+    "Application.VirtualThreadWebScraperStructured.executor": "Run",
+    "Maven.java21demo [clean].executor": "Run",
+    "Maven.java21demo [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/arvind.kumar7/DummyWork/jdk-21-features"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.malik" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TaskManager">
+    <configuration name="BrowserHistory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.malik.sequencedcollections.BrowserHistory" />
+      <module name="java21demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.malik.sequencedcollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainEvent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.malik.recordpatternswitch.MainEvent" />
+      <module name="java21demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.malik.recordpatternswitch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.malik.sequencedcollections.MainTracker" />
+      <module name="java21demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.malik.sequencedcollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecentFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.malik.sequencedcollections.RecentFiles" />
+      <module name="java21demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.malik.sequencedcollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.malik.sequencedcollections.TaskManager" />
+      <module name="java21demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.malik.sequencedcollections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskManager" />
+        <item itemvalue="Application.RecentFiles" />
+        <item itemvalue="Application.MainTracker" />
+        <item itemvalue="Application.MainEvent" />
+        <item itemvalue="Application.BrowserHistory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c47226c-dcc0-49fd-8044-7b6ca776a13b" name="Changes" comment="" />
+      <created>1758266622950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758266622950</updated>
+    </task>
+    <servers />
+  </component>
+</project>
