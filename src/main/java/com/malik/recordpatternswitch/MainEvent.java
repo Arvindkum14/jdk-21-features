@@ -1,4 +1,4 @@
-/*
+/**
 * Real-World Scenario: Event Processing System
 🔹 Use Case:
 Imagine you're building an event processing system for an application. Each event type (e.g., UserRegistered, PaymentMade, OrderShipped) has different data, and you want to handle them polymorphically using switch with pattern matching.

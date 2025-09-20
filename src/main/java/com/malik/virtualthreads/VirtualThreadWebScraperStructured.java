@@ -1,4 +1,4 @@
-/*
+/**
 Sure! Here's an extended version of your virtual threads web scraper that includes:
 Timeouts on each HTTP request
 Robust error handling for failures
