@@ -1,4 +1,4 @@
-/*
+/**
 Part 2: Using Structured Concurrency (JEP 453)
 Structured concurrency is about scoping lifetimes of threads — when a method starts multiple subtasks (threads), those subtasks are grouped and awaited together
 Java 21 adds this via StructuredTaskScope.

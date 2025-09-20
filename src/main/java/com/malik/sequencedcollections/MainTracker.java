@@ -1,10 +1,10 @@
-/*
+/**
 Java 21 introduced the new SequencedCollection interface — a major usability enhancement!
 
-🔥 In Java 21, List, Deque, LinkedHashSet, TreeSet, etc. now implement SequencedCollection, which guarantees a defined iteration order and provides new methods to access elements from both ends of the collection.
+In Java 21, List, Deque, LinkedHashSet, TreeSet, etc. now implement SequencedCollection, which guarantees a defined iteration order and provides new methods to access elements from both ends of the collection.
 
-✅ Real-World Example: Recent Activity Tracker (like Browser History)
-🔹 Use Case:
+Real-World Example: Recent Activity Tracker (like Browser History)
+Use Case:
 Imagine building a "recent activity tracker", similar to a browser history or recent documents list. You want:
 
 Insertions at the end (most recent activity)

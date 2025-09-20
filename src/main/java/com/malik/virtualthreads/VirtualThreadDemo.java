@@ -1,9 +1,14 @@
-/*
-We'll simulate a small application that:
-Makes multiple "fake API calls" (simulated by Thread.sleep)
-Uses virtual threads for lightweight concurrency
-Collects and prints the results
-Measures the total time taken — to show how efficient virtual threads are
+/**
+Feature 5: Virtual Threads (JEP 444) —Final in Java 21
+What is it?
+Virtual Threads are lightweight threads managed by the Java runtime rather than the OS. They allow massive concurrency with minimal resource overhead, making it easy to write highly scalable concurrent applications using familiar threading APIs.
+
+Why is it a big deal?
+Traditional Java threads are expensive and limited in number due to OS thread constraints. Virtual Threads let you create millions of concurrent tasks efficiently.
+
+Real-World Example: High-concurrency web server handling thousands of requests
+Imagine a server that needs to handle thousands of simultaneous client connections without complex async code:
+Use Case: Web servers, microservices, messaging consumers, parallel batch jobs.
 */
 package com.malik.virtualthreads;
 

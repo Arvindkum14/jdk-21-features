@@ -1,4 +1,4 @@
-/*
+/**
 Real-world Example: Concurrent Web Scraper Using Virtual Threads
 Scenario:
 You want to download the HTML content from multiple websites in parallel, but without the complexity of asynchronous callbacks or reactive streams.

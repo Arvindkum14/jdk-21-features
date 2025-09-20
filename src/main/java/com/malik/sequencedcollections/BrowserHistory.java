@@ -1,4 +1,4 @@
-/*
+/**
 1. Using Deque in a Browser History Navigation
 🧠 Use Case: Browser history navigation with forward/backward logic
 * */

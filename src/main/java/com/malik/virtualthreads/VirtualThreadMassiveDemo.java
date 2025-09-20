@@ -1,4 +1,4 @@
-/*
+/**
 Java 21's virtual threads are extremely lightweight — you can create thousands (even millions) without overwhelming the JVM, unlike platform threads.
 Example: Launching 10,000 virtual threads
 */

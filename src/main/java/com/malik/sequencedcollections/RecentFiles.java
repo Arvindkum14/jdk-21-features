@@ -1,4 +1,4 @@
-/*
+/**
 2. Using LinkedHashSet to Track Recently Used Files (MRU)
 🧠 Use Case: Track files a user recently opened in an editor (no duplicates, maintains insertion order)
 * */
